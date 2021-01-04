@@ -1,7 +1,7 @@
 # 4pics 1 word multiplayer 🎲 
 - Simple 4pics1word game with some simple chat feature  
 
-# Tools used ⛏🔬: 
+# Tools used ⛏🔬
 * laravel 
 * mysql 
 * vueJs 
