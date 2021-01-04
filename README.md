@@ -11,7 +11,7 @@
 # How to run ❓
 * clone the repository 
 * cd to the repository 
-* create a database and change the  ** _DB_DATABASE_ variable in your .env file ** based on your database name 
+* create a database and change the  **_DB_DATABASE_ variable in your .env file** based on your database name 
 * run _php artisan migrate_ 
 * run _composer install_ 
 * run _npm install_ 
