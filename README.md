@@ -1,5 +1,5 @@
 # 4pics 1 word multiplayer 🎲 
-- Simple 4pics1word game with some simple chat feature  
+- Simple 4pics1word game with some realtime chat feature  
 
 # Tools used ⛏🔬
 * laravel 
